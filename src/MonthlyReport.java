@@ -58,6 +58,5 @@ public class MonthlyReport {
         } else {
             System.out.println("Месячные отчеты уже были считаны!");
         }
-        monthlyReports.toString();
     }
 }
